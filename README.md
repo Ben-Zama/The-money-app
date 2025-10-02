@@ -1,4 +1,4 @@
-# moneyballs (quasar-moneyballs)
+# The money app (quasar-money-app)
 
 A Quasar Project
 
